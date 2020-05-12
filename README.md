@@ -33,10 +33,10 @@
 > Reddit is 3>
 
 * [Audiophile](https://reddit.com/r/audiophile)
-* [Audiophilemusic](reddit.com/r/audiophilemusic)
+* [Audiophilemusic](https://reddit.com/r/audiophilemusic)
 
 ## TelegramBots
 > Various Music Bots on Telegram
 
-* [SpotifyMusicDownloader](tg://resolve?domain=SpotifyMusicDownloaderBot)
-* [deezermusicbot](tg://resolve?domain=deezermusicbot)
+* <a href="tg://resolve?domain=SpotifyMusicDownloaderBot">SpotifyMusicDownloader</a>
+* <a href="tg://resolve?domain=deezermusicbot">Deezermusicbot</a>
