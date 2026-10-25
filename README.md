@@ -13,6 +13,8 @@
 * [Lossless Audio Checker](http://losslessaudiochecker.com/) - A utility to check if flac/wav file is truly lossless or not.
 * [spek](http://spek.cc/) - Acoustic Spectrum Analyser
 * [Audacity](https://www.audacityteam.org/) - Open Source audio recorder/editor
+* [Hi-Res Audio Checker](https://theaudiostuff.com/tools/hires-audio-checker/) - Browser-based FFT spectrum view to check whether a FLAC/WAV file is real hi-res or upsampled from a lossy source
+* [ABX Blind Test](https://theaudiostuff.com/tools/abx-test/) - Level-matched online ABX test with built-in test pairs or your own two files
 
 ## Downloaders
 > Softwares and apps to download music
